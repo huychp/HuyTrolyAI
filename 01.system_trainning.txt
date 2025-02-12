@@ -1,66 +1,311 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 cung cấp thông tin dữ liệu hợp đồng bảo hiểm Công ty EVNCHP như sau:  
+PHỤ LỤC II: 
 
-BÁO CÁO TỔNG KẾT THỰC HIỆN NGHỊ QUYẾT ĐẠI HỘI 
-NHIỆM KỲ 2020 – 2025
-(Từ đầu nhiệm kỳ năm 2020 đến hết ngày 31/12/2024)
------
+Danh mục điều kiện, điều khoản
 
-PHẦN THỨ NHẤT
-TÌNH HÌNH VÀ KẾT QUẢ THỰC HIỆN NGHỊ QUYẾT ĐẠI HỘI               NHIỆM KỲ 2020 - 2025
+1.	Đối tượng tham gia bảo hiểm
+1.1. Nhân viên: là những người có Hợp đồng lao động/Hợp đồng thử việc/Các thỏa thuận lao động với BMBH theo quy định của Luật lao động Việt Nam và có tên trong danh sách Người được bảo hiểm (NĐBH) trong suốt thời hạn bảo hiểm. 
+1.2. Người thân của Nhân viên:
+1.2.1. Điều kiện tham gia: BMBH phải khai báo trước và chỉ có hiệu lực khi được CTBH xác nhận đồng ‎‎ý bằng văn bản. Nhân viên chỉ được đăng ký bảo hiểm cho người thân của mình một lần vào đầu hiệu lực hợp đồng. 
+1.2.2. Đăng ký sau ngày bắt đầu hiệu lực của hợp đồng bảo hiểm chỉ áp dụng đối với các trường hợp sau:
+- Người thân của nhân viên mới vào làm việc;
+- Bố mẹ của vợ/chồng mới kết hôn/Vợ hoặc chồng của nhân viên mới kết hôn;
+- Con mới sinh đủ 15 ngày tuổi và đủ điều kiện tham gia;
+- Người thân của nhân viên qua thời gian thử việc/tăng cấp giữa thời hạn bảo hiểm được phép mua cho người thân theo chính sách của công ty.
+1.2.3. Quyền lợi bảo hiểm của người thân tự động chấm dứt cùng thời điểm chấm dứt quyền lợi bảo hiểm của nhân viên.
+1.2.4. Tất cả người thân chỉ được tham gia bảo hiểm khi nhân viên cùng có tên trong danh sách tham gia bảo hiểm và chỉ được tham gia chương trình bằng hoặc thấp hơn nhân viên đó. Trường hợp nhân viên không tham gia bảo hiểm, hiệu lực bảo hiểm của tất cả người thân của nhân viên đó sẽ bị vô hiệu, đồng thời người thân đó sẽ bị loại khỏi hợp đồng bảo hiểm, phí bảo hiểm sẽ không được hoàn lại cho dù họ đã phát sinh bồi thường hay chưa.
+1.2.5. Người thân bao gồm tứ thâan phụ mẫu, vợ/chồng, con ruột, con riêng của vợ/chồng (nếu cùng địa chỉ với nhân viên), con nuôi hợp pháp. Con theo quy định từ 15 ngày tuổi đến 18 tuổi hoặc đến 24 tuổi nếu còn đang đi học, sống phụ thuộc và chưa kết hôn. Quyền lợi thai sản không áp dụng cho con cái của nhân viên.
+1.2.6 Nhận bảo hiểm cho người thân quá độ tuổi đến hết năm nay (hợp đồng 2024) cho 01 NĐBH sau:
+- Nguyễn Thị Ngọc Hà (sinh năm 1985 – số thẻ: DAN.D07.BVC.23.HD2.147 – TLBT: 0% ) tăng phí 30%
+1.3. Phí bảo hiểm của toàn bộ NĐBH (bao gồm người thân) phải do BMBH chi trả.
+1.4. BMBH có trách nhiệm khai báo danh sách nhân viên và người thân phù hợp với các quy định nêu trên. Bất cứ sự vi phạm nào có thể dẫn tới việc CTBH từ chối bồi thường, hủy bảo hiểm đối với các trường hợp cụ thể.  
+.
+2. Điều kiện tham gia bảo hiểm
++	Từ 12 tháng tuổi đến 65 tuổi; 
++	Áp dụng mở rộng nhận bảo hiểm cho trẻ em từ 15 ngày tuổi đến dưới 01 tuổi, NĐDBH trên 65 tuổi đến 70 tuổi (với điều kiện cần tham gia trước 65 tuổi và tái tục liên tục), đồng thời thu phí bổ sung 30%
++	Không bị các bệnh tâm thần, phong;
++	Không bị các bệnh ung thư (chỉ áp dụng cho NĐBH tham gia năm đầu tiên); 
++	Không bị thương tật vĩnh viễn từ 50% trở lên (chỉ áp dụng cho NĐBH tham gia năm đầu tiên);
++	Không đang trong thời gian điều trị bệnh/thương tật (chỉ áp dụng cho NĐBH tham gia năm đầu tiên).
++	Là người Việt Nam hoặc người nước ngoài cư trú hợp pháp trong lãnh thổ Việt Nam và không rời khỏi Việt Nam liên tiếp hơn 180 ngày.
+Trường hợp Người tham gia không đúng theo đối tượng và điều kiện tham gia như đề cập, CTBH có quyền chấm dứt bảo hiểm và không chịu trách nhiệm với quyền lợi bảo hiểm đã đăng ký.
+3. Thời gian chờ : 
+CTBH không bảo hiểm cho các rủi ro và/hoặc các chi phí điều trị y tế phát sinh trong thời gian chờ tính từ ngày bắt đầu tham gia bảo hiểm với CTBH, hoặc ngày bắt đầu tham gia quyền lợi bảo hiểm mới, hoặc ngày bắt đầu nâng cấp quyền lợi (áp dụng cho phần quyền lợi chênh lệch cao hơn) như sau:
+1. Nhân viên, người thân tái tục liên tục từ hợp đồng năm 2023
+- Không áp dụng thời gian chờ đối với những người tái tục liên tục của năm trước đã áp dụng đủ thời gian chờ.
+- Đối với những người chưa áp dụng đủ thời gian chờ thì tiếp tục áp dụng thời gian chờ theo mục 2a  cho đến khi đủ thời gian quy định.
+- Áp dụng thời gian chờ cho phần chênh lệch tăng thêm, tức là chi trả theo hạn mức quyền lợi tương ứng hợp đồng/ GCN bảo hiểm năm trước đối với các trường hợp phát sinh trong thời gian chờ.
+2 Tham gia mới: 
+a.	Với nhân viên và người thân tham gia mới:
+Tai nạn	Không áp dụng thời gian chờ
+Điều trị nội trú, ngoại trú 	Không áp dụng thời gian chờ
+Thai sản và sinh đẻ	Bồi thường theo tỷ lệ:
+- 90 ngày đầu tiên đối với điều trị biến chứng thai sản như định nghĩa
+- 270 ngày đầu tiên đối với sinh con
+Tử vong, tàn tật toàn bộ vĩnh viễn	- 30 ngày đầu tiên đối với ốm đau, bệnh tật thông thường 
+- 365 ngày đầu tiên đối với thai sản, bệnh có sẵn, bệnh đặc biệt, bệnh/thương tật loại trừ trong 365 ngày đầu tiên như định nghĩa
+4. Quy định về thay đổi quyền lợi:
+Giới hạn trách nhiệm tất cả các điều kiện và quyền lợi không thể thay đổi trong suốt thời hạn Hợp đồng bảo hiểm. Những quyền lợi này chỉ có thể được thay đổi vào ngày tái tục Hợp đồng bảo hiểm. 
+5. Các điểm loại trừ áp dụng cho toàn bộ Hợp đồng bảo hiểm này:
+CTBH không chịu trách nhiệm chi trả tiền bảo hiểm đối với những rủi ro, hạng mục, điều kiện, các hành động, nguyên nhân, bệnh, phương pháp điều trị như được liệt kê sau đây và các chi phí phát sinh liên quan hay hậu quả của chúng:
+5.1. Các hình thức điều trị nội trú liên quan đến răng; 
+5.2. Đục thủy tinh thể do suy biến tự nhiên/lão hóa;
+5.3. Khám/xét nghiệm không có kết luận chẩn đoán bệnh hoặc kết luận không có bệnh của bác sỹ; các chi phí y tế không liên quan đến bệnh thuộc phạm vi bảo hiểm;
+5.4. NĐBH vi phạm nội quy của cơ quan theo Luật lao động: áp dụng giới hạn bồi thường bằng 50% số tiền bồi thường thuộc phạm vi trách nhiệm bảo hiểm;
+5.5. Điểm loại trừ số 2 trong Quy tắc bảo hiểm được thay thế như sau:
++ NĐBH từ 14 tuổi trở lên vi phạm nghiêm trọng pháp luật bị khởi tố hình sự;
++ NĐBH có các hành vi sau đây khi tham gia giao thông:
+-	Đua xe, tổ chức đua xe trái phép;
+-	Điều khiển phương tiện có sử dụng chất ma túy, các chất kích thích, chất gây nghiện hoặc tương tự;
+-	Điều khiển phương tiện có sử dụng chất có cồn dẫn đến nồng độ cồn trong máu vượt quá 10 mg/dl;
+-	Điều khiển ô tô, máy kéo, rơ moóc, đầu kéo kéo sơ mi rơ moóc không có giấy phép lái xe theo quy định của Luật Giao thông đường bộ hoặc giấy phép lái xe không hợp lệ;
+-	Vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định về vận chuyển hàng nguy hiểm; vận chuyển hàng cấm;
+-	Đi ngược chiều quy định, đi vào đường cấm.
+-	Riêng trường hợp NĐBH điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy và các loại xe tương tự không có Giấy phép lái xe theo quy định của Luật Giao thông đường bộ hoặc Giấy phép lái xe không hợp lệ: áp dụng giới hạn bồi thường bằng 50% số tiền bồi thường thuộc phạm vi trách nhiệm bảo hiểm.
+5.6. Điểm loại trừ số 3 trong Quy tắc bảo hiểm được thay thế như sau: Các rủi ro phát sinh trực tiếp hoặc gián tiếp từ việc NĐBH nghiện rượu/bia, ma túy, các chất kích thích hoặc sử dụng, lạm dụng hay nghiện bất cứ chất có cồn/chất kích thích/chất gây nghiện nào.
+5.7. Điểm loại trừ số 7 trong Quy tắc bảo hiểm được thay thế như sau: Những rủi ro mang tính chất thảm họa như động đất, núi lửa, sóng thần, nhiễm phóng xạ, dịch bệnh/tình trạng khẩn cấp y tế theo công bố của WHO hoặc cơ quan Nhà nước có thẩm quyền.
+5.8. Điểm loại trừ số 20 trong Quy tắc bảo hiểm được thay thế như sau: Thực hiện các biện pháp kế hoạch hóa gia đình, phá thai/hậu quả của phá thai do nguyên nhân tâm lý hay xã hội; điều trị vô sinh nam/nữ; thụ tinh nhân tạo, biến chứng thai sản trên NĐBH đã và đang làm thụ tinh nhân tạo (bằng tất cả các hình thức); xét nghiệm hoặc điều trị khả năng sinh sản hoặc hiếm muộn; rối loạn chức năng sinh dục hay điều trị sinh lý; điều trị bất lực/liệt dương; điều trị các vấn đề về giới tính; và bất kỳ hậu quả hay biến chứng nào từ những điều trị trên;
+5.9. Cơ sở y tế không chi trả bảo hiểm: CTBH không bồi thường các chi phí phát sinh tại một số cơ sở y tế thuộc danh sách “Cơ sở y tế không chi trả bảo hiểm” được cập nhật trên website của CTBH: https://www.baoviet.com.vn/insurance/
+5.10. Các điểm loại trừ khác áp dụng như trong Quy tắc Bảo hiểm Sức khỏe của Tổng Công ty bảo hiểm Bảo Việt ban hành theo Quyết định số 1927/2011/QĐ/TGĐ-BHBV ngày 22/06/2011 đính kèm.
 
-Trong nhiệm kỳ qua, triển khai thực hiện Nghị quyết Đại hội các cấp và của Đảng bộ Công ty CP thủy điện miền Trung lần thứ III, nhiệm kỳ 2020 – 2025 trong điều kiện có nhiều thuận lợi cơ bản. Tình hình đất nước phát triển ổn định, hội nhập quốc tế ngày càng sâu rộng; công cuộc đổi mới do Đảng lãnh đạo đã tạo động lực thúc đẩy nền kinh tế tiếp tục phát triển bền vững. Bên cạnh đó một số khó khăn, thách thức đã tác động đến tình hình thực hiện nhiệm vụ như: Thời tiết thiên nhiên diễn biến bất thường do ảnh hưởng của biến đổi khí hậu toàn cầu; dịch bệnh bùng phát khó lường đặc biệt là đại dịch Covid 19 từ đầu nhiệm kỳ. Song dưới sự lãnh đạo, chỉ đạo HĐQT, Đảng ủy, Ban Lãnh đạo Công ty đã phát huy vai trò lãnh đạo của Ban chấp hành Đảng bộ với tinh thần, đoàn kết, đổi mới, sáng tạo góp phần cho sự phát triển của Công ty; quyết tâm vượt qua khó khăn, thách thức, tập thể CBCNV Công ty đã phấn đấu hoành thành vượt mức kế hoạch được giao hàng năm.
-Đảng bộ có 05 Chi bộ trực thuộc gồm: Chi bộ Văn phòng - Tổ chức nhân sự, Chi bộ Kế hoạch Vật tư - Tài chính kế toán, Chi bộ Kỹ thuật - Quản lý xây dựng, Chi bộ Nhà máy Thủy điện A Lưới và Chi bộ Nhà máy Điện mặt trời Cư Jút.
-Tổng số đảng viên của Đảng bộ là 78 đảng viên/123 CBCNV chiếm 63%, trong đó đảng viên chính thức: 77, đảng viên dự bị: 01; Nam 69, nữ 9. 
-I. CÔNG TÁC LÃNH ĐẠO, CHỈ ĐẠO VÀ KẾT QUẢ THỰC HIỆN CÁC CHỈ TIÊU NGHỊ QUYẾT ĐẠI HỘI
-1. Công tác lãnh đạo, chỉ đạo
-1.1. Việc ban hành Chương trình hành động để cụ thể hoá và triển khai thực hiện Nghị quyết Đại hội lần thứ XIII của Đảng, Nghị quyết Đại hội Đảng bộ Khối, Nghị quyết Đại hội Đảng bộ Tập đoàn, Nghị quyết Đại hội Đảng của đơn vị:
--	Ngay sau Đại hội, Đảng bộ đã xây dựng chương trình hành động thực hiện Nghị quyết Đại hội Đảng bộ Công ty CP thủy điện Miền Trung lần III, nhiệm kỳ 2020-2025 tại văn bản số  01- CTr/ĐH ngày 6/7/2020 để thực hiện.
--	Xây dựng phương hướng, kế hoạch thực hiện việc quán triệt, tuyên truyền Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng và Đại hội Đảng các cấp nhiệm kỳ 2020 – 2022 trong các Nghị quyết về nhiệm vụ công tác hàng năm của Đảng bộ Công ty. 
--	Sau Đại hội, Đảng ủy khóa mới đã tổ chức sinh hoạt định kỳ theo quy định, ban hành Quy chế làm việc của Ban Chấp hành Đảng bộ nhiệm kỳ 2020-2025, Ban hành chương trình kiểm tra giám sát toàn khóa của Đảng ủy, của UBKT Đảng ủy, phân công nhiệm vụ các đồng chí trong cấp ủy…
-1.2. Việc triển khai thực hiện các nghị quyết, chỉ thị, quy định, quyết định, kết luận của Trung ương từ Đại hội Đảng toàn quốc lần thứ XIII đến nay. 
--	Đảng bộ Công ty đã tập trung lãnh đạo, chỉ đạo triển khai thực hiện nghiêm túc các Chỉ thị, Nghị quyết của Ban chấp hành Trung ương, Bộ Chính trị và chỉ đạo triển khai thực hiện Nghị quyết đại hộ đảng bộ các cấp, nhiệm kỳ 2020 – 2025. Cụ thể: Tổ chức quán triệt các chi bộ, đảng viên Nghị quyết số 23-NQ/ĐH ngày 26/6/2020 của Đại hội đại biểu Đảng bộ EVNCPC nhiệm kỳ ; Tuyên truyền và triển khai quán triệt Nghị quyết đại hội đại biểu lần thứ XXII ngày 21/10/2020 Đảng bộ thành phố Đà Nẵng nhiệm kỳ 2020-2025 tại công văn số 87 CV/ĐU ngày 21/12/2020 của Đảng ủy EVNCPC. Tham gia các buổi hội nghị trực tiếp, trực tuyến do Đảng ủy cấp trên triệu tập để học tập các chuyên đề quán triệt, nghiên cứu Nghị quyết đại hội lần thứ XIII của Đảng.
--	Đảng ủy thực hiện quán triệt các cấp ủy đảng thực hiện Điều lệ Đảng, Nghị quyết Trung ương 4 (khóa XII) về “Tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đầy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống, những biểu hiện “tự diễn biến”, “tự chuyển hóa” trong nội bộ”; về thực hiện chỉ thị 05-CT/TW của Bộ Chính trị (khóa XII) về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh; Chỉ thị 50-CT/TW ngày 07/12/2015 của Bộ Chính trị và Chỉ thị 05-CT/TU ngày 05/01/2016 của Ban thường vụ Thành ủy về phòng, chống tham nhũng, lãng phí, tiêu cực. 
-1.3. Việc ban hành các nghị quyết, kết luận, chỉ thị để lãnh đạo, chỉ đạo các đảng uỷ trực thuộc thực hiện nhiệm vụ chính trị và công tác xây dựng đảng: Hàng năm đảng ủy đã kịp thời ban hành các nghị quyết, kết luận chỉ đạo của đảng ủy cấp trên để triển khai thực hiện, quán triệt đến các chi bộ, đảng viên.
-1.4. Công tác đôn đốc, kiểm tra, giám sát việc triển khai thực hiện nghị quyết của Đảng ủy Tập đoàn, cấp ủy đơn vị.
--	Xây dựng chương trình kiểm tra, giám sát của Ban Chấp hành Đảng bộ Công ty khóa III, nhiệm kỳ 2020 – 2025 được ban hành tại văn bản số 04-Ctr/ĐU của Đảng ủy Công ty ngày 06/7/2020.
--	Xây dựng chương trình kiểm tra, giám sát của Ủy ban kiểm tra Đảng ủy Công ty khóa III, nhiệm kỳ 2020 – 2025 được ban hành tại văn bản số 03-Ctr/UBKTĐU của Ủy ban kiểm tra Đảng ủy Công ty ngày 06/7/2020.
--	Công tác kiểm tra giám sát, kỷ luật Đảng đã có chuyển biến tích cực; có tính chủ động hơn, có trọng tâm, trọng điểm. Việc xử lý kỷ luật thể hiện nghiêm minh, khách quan, chính xác, kịp thời. Công khai, minh bạch trong xử lý kỷ luật có tác động sâu sắc đến nhận thức của cán bộ, đảng viên.
--	Công tác kiểm tra giám sát được Đảng ủy và UBKT Đảng ủy Công ty xây dựng, thực hiện theo kế hoạch hang năm và thường xuyên để phòng ngừa, phát hiện và khắc phục kịp thời những hạn chế thiếu sót góp phần làm trong sạch nội bộ, giữ vững kỷ cương, kỷ luật. 
--	Từ đầu nhiệm kỳ đến nay 30/10/2024, Đảng ủy, UBKT Đảng ủy Công ty đã tổ chức kiểm tra, giám sát 30 số lượt các chi bộ; xử lý kỷ luật 05 đảng viên hình thức khiển trách do vi phạm chính sách dân số sinh con thứ ba.
--	Từ đầu nhiệm kỳ đến nay không có đơn thư tố cáo.
-2. Kết quả thực hiện các chỉ tiêu Nghị quyết Đại hội
-Đánh giá tình hình thực hiện các chỉ tiêu Đại hội đảng bộ cấp mình đề ra về công tác xây dựng Đảng và các chỉ tiêu nhiệm vụ sản xuất kinh doanh đối chiếu với yêu cầu của nghị quyết đại hội đảng bộ đơn vị mình (so sánh với nhiệm kỳ trước và nhiệm kỳ này). 
--	Thực hiện tốt việc quán triệt các chỉ thị, nghị quyết của cấp ủy cấp trên theo đúng hướng dẫn và thời gian quy định. Triển khai thực hiện hiệu quả các Nghị quyết của Trung Ương, nhất là Nghị quyết TW 04 (khóa XII) và Chỉ thị 05 của Ban Bí thư. Hàng năm toàn đảng bộ đăng ký họp tập CT05 và NQTW4, đưa đánh giá việc học tập vào nội dung sinh hoạt định kỳ.
--	Xây dựng Đảng bộ vững cả 3 mặt: chính trị, tư tưởng và tổ chức. 
--	Lập và triển khai kế hoạch công tác kiểm tra, giám sát thường xuyên tại các chi bộ trực thuộc, đưa hoạt động của các chi bộ đi vào ổn định. 
--	Về vận hành phát điện: Vận hành an toàn, đúng quy trình. Từng bước làm chủ công nghệ, sáng tạo, cải tiến khoa học kỹ thuật.
--	Về công tác thị trường điện: Đã tăng độ tin cậy trong công tác dự báo thuỷ văn để tính toán lượng nước về hồ; Bám sát vận hành thị trường điện để tính toán lập bản chào giá tối ưu nhất; Chủ động tiếp nhận chính sách, tham gia các lớp đào tạo, các xu hướng phát triển tiếp để cận thị trường đạt hiệu quả.
--	Tích cực tham gia các hoạt động an sinh xã hội, tham gia phong trào đền ơn đáp nghĩa; 
--	Thường xuyên tuyên truyền, kiểm tra và giám sát các hoạt động ATVSLĐ - PCCC, không để xảy ra sự cố mất ATVSLĐ, tai nạn lao động trong nửa đầu nhiệm kỳ.
--	Thực hiện tốt quy chế phối hợp bảo vệ an ninh 02 nhà máy thủy điện A Lưới và nhà máy ĐMT Cư Jut. Tham gia các chương trình an ninh, quốc phòng tại cơ quan và địa phương.
--	Lãnh đạo Công đoàn, Đoàn Thanh niên, hoạt động theo đúng Điều lệ và có hiệu quả.
+6. Điều khoản bảo hiểm tự động tăng/giảm đối với nhân viên và thu hồi thẻ (Cập nhật hàng tháng)
+6.1. Điều chỉnh tăng/giảm
+Đơn bảo hiểm này tự động mở rộng bảo hiểm cho bất cứ nhân viên nào của BMBH kể từ ngày bắt đầu làm việc cho BMBH với số tiền bảo hiểm không vượt quá số tiền bảo hiểm đối với nhân viên cùng tính chất công việc, đồng thời bảo hiểm cũng sẽ tự động hủy bỏ kể từ ngày kết thúc hợp đồng lao động đối với bất kỳ nhân viên nào nghỉ việc, với điều kiện là BMBH có trách nhiệm thông báo cho CTBH về sự thay đổi nhân viên hàng tháng trước ngày thứ 15 của tháng tiếp theo trong thời hạn bảo hiểm.
+Thông tin cần thiết phải khai báo gồm tên, ngày, tháng, năm sinh, ngày tham gia hoặc ngày nghỉ việc, số CMTND, chức vụ, chương trình bảo hiểm, lương và các thông tin khác theo yêu cầu của CTBH.
+Người thân thuộc đối tượng được tăng mới/người thân giảm trong thời hạn bảo hiểm được cập nhật hàng tháng cùng thời điểm khai báo với nhân viên (trước ngày thứ 15 của tháng tiếp theo trong thời hạn bảo hiểm). Vợ chồng mới cưới/con cái mới sinh của nhân viên cũ khai báo trong vòng 30 ngày kể từ ngày đăng ký kết hôn/ngày con cái đủ điều kiện tham gia bảo hiểm. Hiệu lực bảo hiểm cho các trường hợp người thân tăng giữa kỳ được tính từ ngày người thân đủ điều kiện tham gia bảo hiểm (ngày nhân viên mới ký hợp đồng/ngày nhân viên đăng ký kết hôn/ngày con mới sinh đủ điều kiện tham gia/ngày nhân viên qua thời gian thử việc - tăng cấp đủ điều kiện mua bảo hiểm cho người thân theo chính sách của công ty).
+6.2. Phí tính tăng/giảm:
+- Trường hợp bổ sung/điều chỉnh tăng: phí bảo hiểm bổ sung được tính theo biểu phí tỷ lệngắn hạn như quy định trong Quy tắc bảo hiểm với quyền lợi đầy đủ.
+- Trường hợp giảm: phí bảo hiểm hoàn lại được tính theo tỷ lệ giữa số ngày còn lại và 365 ngày trên cơ sở thời hạn của Hợp đồng chính với điều kiện người đó chưa phát sinh bồi thường trong suốt thời gian bảo hiểm.
+Phí bảo hiểm tăng/giảm trong năm được tổng hợp và quyết toán trong vòng 30 ngày tính từ ngày hết hạn hợp đồng bảo hiểm. Nếu phí Sửa đổi bổ sung tăng lớn hơn 25% tổng phí của HĐBH đã ký, phí phát sinh của SĐBS này phải được thanh toán trong vòng 30 ngày kể từ ngày phát sinh SĐBS.  Nếu quá thời hạn trên, BMBH không thanh toán đủ phí theo quy định, toàn bộ hồ sơ đã phát sinh trong thời hạn bảo hiểm sẽ được CTBH tạm dừng chi trả cho đến khi BMBH hoàn tất việc thanh toán phí trên.
+6.3. Thu hồi thẻ bảo hiểm:
+Trường hợp giảm nhân viên/người thân: BMBH có trách nhiệm thu lại thẻ bảo hiểm của nhân viên nghỉ việc và của người thân nhân viên đó (nếu có) vào ngày làm việc cuối cùng. Nếu không thể thu hồi thẻ, BMBH phải thông báo ngay lập tức cho CTBH.
+- Trường hợp BMBH thu hồi được thẻ bảo lãnh viện phí/hoặc có thông báo cho CTBH và hợp đồng bảo hiểm có điều khoản xác nhận của BMBH trên Giấy yêu cầu bồi thường: CTBH sẽ hủy bảo hiểm của nhân viên/người thân nhân viên đó kể từ ngày nhân viên nghỉ việc.
+- Trường hợp BMBH không thu hồi được thẻ bảo lãnh viện phí, hoặc không thông báo cho CTBH, hoặc hợp đồng được miễn xác nhận của BMBH trên Giấy yêu cầu bồi thường: CTBH sẽ hủy bảo hiểm của nhân viên/người thân nhân viên đó kể từ ngày CTBH nhận được khai báo tăng/giảm của BMBH.
 
-STT	Nội dung	Đơn vị	Thực hiện nhiệm kỳ III 2015-12/2019	KH nhiệm kỳ IV 2020-31/12/2024	Thực hiện 2020-31/2024	Dự kiến đến 3/2025
-1	Sản xuất kinh doanh					
-	Sản lượng điện	Triệu kWh	3.079	3.511	3.703	3.843
-	Doanh thu	Tỷ đồng	3.487	3.874	4.443	4.543
-	Lợi nhuận sau thuế	Tỷ đồng	1.308	1.156	1.670	1.679
-2	Chi trả cổ tức 	%	>15%	15	>20%	
-3	Hoàn thành thủ tục đầu tư 01 dự án		Hoàn thành dự án ĐMT Cư Jut		Chưa có dự án đầu tư	Chưa có dự án đầu tư
-4	Quyết toán DA ĐMT Cư Jut				Hoàn thành 12/2020	
-5	Đảng bộ trong sạch vững mạnh			HTTNV	HTTNV	
-6
-	Kết nạp đảng viên mới		25	15	16	Đạt 106%
-II. KẾT QUẢ CÔNG TÁC XÂY DỰNG ĐẢNG BỘ TRONG SẠCH, VỮNG MẠNH; NÂNG CAO NĂNG LỰC LÃNH ĐẠO VÀ SỨC CHIẾN ĐẤU CỦA TỔ CHỨC ĐẢNG
-1. Công tác xây dựng Đảng về chính trị, tư tưởng, đạo đức 
-* Xây dựng Đảng về chính trị
- - Đảng bộ luôn quán triệt, kiên định chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, vận dụng và phát triển sáng tạo phù hợp doanh nghiệp; kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội; đường lối đổi mới vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh; thực hiện đúng theo Cương lĩnh, Điều lệ Đảng, đường lối, chủ trương, nguyên tắc tổ chức và hoạt động của Đảng; bảo vệ Hiến pháp và pháp luật.
-- Nâng cao năng lực lãnh đạo toàn diện của Đảng; lập trường, bản lĩnh chính trị, trí tuệ, tính chiến đấu của toàn Đảng và mỗi cán bộ, đảng viên, cán bộ lãnh đạo và quản lý.
-- Thực hiện nghiêm nguyên tắc, quy định; thực hành dân chủ gắn với tăng cường kỷ luật, kỷ cương của Đảng. Phát huy vai trò tiên phong, gương mẫu của cán bộ, đảng viên, nhất là người đứng đầu. 
-- Đổi mới, nâng cao chất lượng công tác hoạch định đường lối, chủ trương đáp ứng yêu cầu tình hình mới; cụ thể hóa và tổ chức thực hiện; khắc phục yếu kém, hạn chế, né tránh trách nhiệm trong công tác lãnh đạo thực hiện chủ trương, nghị quyết của Đảng.
--	Đảng bộ đã triển khai quán triệt và thực hiện tốt quan điểm đường lối đổi mới của Đảng, các Nghị quyết, chỉ thị của TW Đảng, Thành ủy, Đảng ủy EVNCPC. Các đảng viên tham gia đầy đủ các đợt học tập Nghị quyết của Đảng do cấp trên tổ chức. Cụ thể như: 
-+	Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, Nghị quyết Đại hội đại biểu lần thứ XXII Đảng bộ thành phố Đà Nẵng, Nghị quyết Đại hội lần thứ XIV của Đảng bộ Tổng công ty nhiệm kỳ 2020 – 2025 và các Nghị quyết của Trung ương; 
-+	Chỉ thị số 28-CT/TW ngày 21/01/2019 của Ban Bí thư và Kế hoạch số 87-KH/TU ngày 07/5/2019 của Ban Thường vụ Thành ủy về nâng cao chất lượng kết nạp đảng viên; rà soát, sàng lọc đưa những đảng viên không còn đủ tư cách ra khỏi Đảng; 
-+	Quán triệt Chỉ thị số 04-CT/TW ngày 08/01/2021 của Ban Thường vụ Thành ủy về tăng cường công tác quản lý đảng viên và nâng cao chất lượng đảng viên trong tình hình mới. 
-+	hông có
+7. Quy định về cách tính ngày nằm viện:
+ + Đối với các bệnh viện không ghi giờ trên hồ sơ bệnh án: căn cứ vào Giấy ra viện, số ngày nằm viện = ngày xuất viện – ngày nhập viện.
++ Đối với các bệnh viện có ghi giờ trên hồ sơ bệnh án: ngày nằm viện được tính trên cơ sở qua đêm và số ngày nằm viện = số giờ nằm viện/24 giờ, hoặc theo số ngày giường thực tế trên bảng kê (trả theo số tiền nào thấp hơn).
+8. Giới hạn cơ sở y tế điều trị răng:
+Hợp đồng này bồi thường cho các chi phí khám chữa răng hợp lý, hợp lệ và được điều trị tại các cơ sở y tế theo quy định sau:
++ Chuyên khoa Nha tại tất cả các bệnh viện hoạt động hợp pháp trong phạm vi lãnh thổ Việt Nam.
++ Riêng tại TP Hồ Chí Minh và Hà Nội: ngoài Chuyên khoa nha tại tất cả các bệnh viện nói trên, hợp đồng này chỉ chấp thuận bồi thường cho các chi phí phát sinh tại các Phòng khám trong hệ thống có ký kết thỏa thuận bảo lãnh với Bảo Việt.
++ Ðối với các Tỉnh thành khác: ngoài Chuyên khoa nha tại tất cả các bệnh viện nói trên, hợp đồng này chấp thuận bồi thường cho các chi phí phát sinh tại các Phòng khám có giấy phép đăng ký kinh doanh và giấy phép hành nghề hợp pháp và cấp được hóa đơn hợp lệ theo quy định của Bộ Tài Chính.
++ CTBH không chi trả cho các chi phí khám chữa răng tại Phòng nha sau:
+1.	Nha khoa Happy (26, Hàm Nghi, Ðà Nẵng)
+2.	Nha Khoa Ðại Nam (328, Ông Ích Khiêm, Thanh Khê, Ðà Nẵng)
+3.	Nha khoa Việt Pháp - 24 Trần Duy Hưng, Hà Nội
+4.	Phòng khám ða khoa Hồng Phýớc - 96 Triệu Nữ Vương, Hải Châu, Ðà Nẵng
+5.	Nha khoa Hoàn Mỹ Ðà Nẵng (Nha khoa thẩm mỹ Ðà Nẵng) - 72 Pasteur, Ðà Nẵng.
+6.	Nha khoa Bông Sen Việt
+7.	Nha khoa HAPPY (Quảng Nam)
+8.	Nha khoa Việt Anh (12 Triệu Nữ Vương, Ðà Nẵng)
+9.	Nha khoa DR. Tiên – 124B Man Thiện, TP Thủ Ðức, HCM
+10.	Nha khoa Sunrise City – 29 Nguyễn Thị Thập. Quận 7, HCM
+11.	Cty TNHH TMDVTH Minh Anh Phát – thửa đất số 2, tờ bản đồ 48, Ðinh Thị Hòa, P An Hải Bắc, Ðà Nẵng
+12.	Nha khoa thẩm mỹ Hoàng Dung – 175 Ông Ích Khiêm, Ðà Nẵng
+13.	Nha khoa Hòa Hảo – 9-11 Hoàng Hữu Nam, Tân Phú, Quận Thủ Ðức, HCM
+14.	Nha khoa bác sĩ Vĩnh Hòa – 201 Ðiện Biên Phủ, Trà Vinh
+15.	Nha khoa Ngọc Anh – 133A Hoàng Diệu 2, TP Thủ Ðức, HCM 
+16.	Nha khoa Minh Phát – 357 Nguyễn Thái Bình, p 12, quận Tâm Bình, HCM
+17.	Nha khoa Khánh Nhi – 89 Bàu Cát 4, P 14, Q Tân Bình, HCM
+Danh sách này có thể cập nhật thêm mà không cần báo trước, chi tiết tại website của CTBH (http://www.baoviet.com.vn/insurance)
+9. Điều khoản kiểm tra
+9.1. CTBH có quyền yêu cầu NĐBH cung cấp các giấy tờ sau đây:
+- NĐBH là Nhân viên: Hợp đồng lao động và Sổ bảo hiểm xã hội
+- NĐBH là Người thân của  nhân viên: Giấy khai sinh (với con của nhân viên)/Giấy đăng ký kết hôn (với vợ/chồng nhân viên)/Sổ hộ khẩu
+CTBH có quyền từ chối bồi thường nếu NĐBH không cung cấp đầy đủ các giấy tờ nói trên. 
+Trường hợp NĐBH là thành viên Hội đồng quản trị hoặc Ban Tổng giám đốc không thể cung cấp Sổ bảo hiểm xã hội, có thể cung cấp sao kê lương hoặc chứng từ khác theo yêu cầu của Công ty bảo hiểm để CTBH xem xét chi trả tối đa 100% số tiền bồi thường thuộc trách nhiệm bảo hiểm.
+Riêng trường hợp nhân viên không được BMBH đóng bảo hiểm xã hội; hoặc nhân viên không cung cấp Sổ bảo hiểm xã hội được BMBH đóng khi CTBH yêu cầu, CTBH chi trả tối đa 20% số tiền bồi thường thuộc trách nhiệm bảo hiểm, riêng trường hợp tử vong sẽ không được bảo hiểm (Quy định này áp dụng cho cả nhân viên và người thân của nhân viên đó).
+CTBH có quyền chỉ định chuyên gia y khoa và/hoặc chuyên gia giám định tổn thất để tiến hành kiểm tra sức khoẻ của NĐBH và các thông tin có liên quan đến việc giải quyết khiếu nại nếu thấy cần thiết. NĐBH có nghĩa vụ hợp tác trong việc giám định này, nếu không, CTBH có quyền từ chối hồ sơ yêu cầu bồi thường liên quan. Ngoài ra, CTBH có quyền yêu cầu khám nghiệm tử thi trong trường hợp chết nếu việc khám nghiệm này không trái với Pháp luật và phong tục tập quán.
+9.2. Nếu NĐBH theo quy định hoặc Người thừa kế hợp pháp không trung thực trong việc thực hiện các quy định trong Bộ hợp đồng bảo hiểm, CTBH có quyền từ chối toàn bộ số tiền bồi thường phát sinh (nếu có), hiệu lực bảo hiểm của NĐBH sẽ bị chấm dứt và NĐBH sẽ không được hưởng bất cứ quyền lợi nào thuộc Hợp đồng bảo hiểm. Khoản phí bảo hiểm đã đóng không được hoàn lại. Trường hợp CTBH đã chi trả quyền lợi bảo hiểm do các hành vi nói trên, NĐBH/Người thụ hưởng/Người được ủy quyền/Người đại diện hợp pháp phải có nghĩa vụ hoàn trả lại cho CTBH số tiền đã chi trả.
+10. Chuyển đổi sang Hợp đồng bảo hiểm cá nhân
+Các trường hợp NĐBH có yêu cầu chuyển đổi từ hợp đồng nhóm sang hợp đồng cá nhân, CTBH sẽ xem xét đối với từng trường hợp cụ thể dựa trên lịch sử bồi thường, tình trạng sức khỏe của cá nhân NĐBH đó và các quy định của loại hình bảo hiểm liên quan.
+11.  Bổ sung, sửa đổi hoặc hủy bỏ Hợp đồng bảo hiểm
+11.1. Trường hợp một trong hai bên muốn sửa đổi, bổ sung hợp đồng này phải thông báo cho bên kia bằng văn bản trước 30 ngày kể từ ngày Hợp đồng sẽ được sửa đổi, bổ sung. Các sửa đổi bổ sung sẽ được lập thành phụ lục của Hợp đồng này.    
+11.2. Trường hợp BMBH không trung thực trong việc thực hiện các quy định trong bộ Hợp đồng bảo hiểm, hợp đồng bảo hiểm sẽ bị hủy bỏ. Trong trường hợp này, CTBH không chịu trách nhiệm bồi thường những rủi ro đã phát sinh. CTBH sẽ hoàn lại 70% phí bảo hiểm của thời gian hiệu lực còn lại với điều kiện tại thời điểm đó BMBH chưa phát sinh bồi thường. 
+11.3. Trường hợp một trong hai bên đề nghị chấm dứt hợp đồng bảo hiểm, bên yêu cầu chấm dứt phải thông báo bằng văn bản cho bên kia biết trước 30 ngày kể từ ngày có ý định chấm dứt. Việc chấm dứt hợp đồng phải phù hợp với quy định của Luật kinh doanh bảo hiểm, Bộ luật dân sự và tuân thủ theo hai trường hợp sau:
+11.3.1. Nếu hợp đồng được hai bên thỏa thuận chấm dứt theo yêu cầu chấm dứt hợp đồng bảo hiểm của BMBH, CTBH sẽ hoàn trả 80% phí bảo hiểm của thời gian hiệu lực còn lại, với điều kiện đến thời điểm đó hợp đồng bảo hiểm chưa phát sinh bồi thường.
+11.3.2. Nếu hợp đồng được hai bên thỏa thuận chấm dứt theo yêu cầu chấm dứt hợp đồng bảo hiểm của CTBH, CTBH sẽ hoàn trả 100% phí bảo hiểm của thời gian hiệu lực còn lại dù trước đó có phát sinh bồi thường hay không.
+12. Thủ tục giải quyết trả tiền bảo hiểm
+12.1. Hồ sơ yêu cầu trả tiền bảo hiểm:
+Khi yêu cầu bồi thường, NĐBH/Người thừa kế/Người thụ hưởng/Người được ủy quyền hợp pháp; bố/mẹ của trẻ em dưới 18 tuổi phải thông báo cho CTBH trong vòng 180 ngày và gửi cho CTBH hồ sơ yêu cầu bồi thường bằng Tiếng Anh hoặc Tiếng Việt không quá một (01) năm kể từ ngày NĐBH điều trị ổn định/hoặc xuất viện/hoặc tử vong.
+12.1.1. Giấy yêu cầu bồi thường (theo mẫu của CTBH, có chữ ký và con dấu của đại diện BMBH) do NĐBH/Người thừa kế/Người thụ hưởng/Người được ủy quyền hợp pháp của NĐBH kê khai và ký tên. Trường hợp NĐBH là trẻ em dưới 18 tuổi sẽ do bố/mẹ (là nhân viên của BMBH) kê khai và ký tên. 
+12.1.2. Các chứng từ thanh toán: hóa đơn tài chính/biên lai/phiếu thu theo quy định của Bộ Tài chính và bảng kê chi tiết kèm theo. Các giấy tờ trên phải là bản gốc và sẽ thuộc sở hữu của CTBH (Không yêu cầu bắt buộc cung cấp bản gốc bảng kê chi tiết của hóa đơn nếu số tiền trên bảng kê khớp với số tiền trên hoá đơn). Hóa đơn mua thuốc/điểu trị phải được xuất trong vòng 30 ngày kể từ ngày kê đơn thuốc/điều trị và thể hiện số lượng thuốc và loại thuốc đúng theo kê đơn của bác sỹ điều trị. CTBH không chấp nhận các phiếu thu/biên lai/hóa đơn bán lẻ cộng gộp, chỉ chấp nhận tối đa 01 phiếu thu/biên lai/hóa đơn bán lẻ cho mỗi hồ sơ yêu cầu bồi thường. 
+Trường hợp cơ sở y tế sử dụng hóa đơn điện tử thì hóa đơn được sử dụng trong chứng từ thanh toán của bộ hồ sơ sẽ là:
++ Bản thể hiện Hóa đơn điện tử có thông tin về đường dẫn tra cứu; hoặc
++ Hóa đơn chuyển đổi hóa đơn điện tử có chữ ký người chuyển đổi và dấu cơ sở cấp hóa đơn, có thông tin về đường dẫn tra cứu;
+12.1.3. Các chứng từ y tế: 
+- Toa thuốc (được kê trên đơn thuốc/sổ khám bệnh/phiếu khám và theo quy định của Bộ Y tế); 
+- Sổ khám bệnh/sổ y bạ/phiếu khám có chẩn đoán bệnh của bác sỹ và chỉ định điều trị; 
+- Giấy ra viện; 
+- Phiếu điều trị, chỉ định xét nghiệm/chẩn đoán hình ảnh, kết quả xét nghiệm/chẩn đoán hình ảnh, kết quả sinh thiết... (các tài liệu này là bắt buộc với hồ sơ ngoại trú, với hồ sơ nội trú chỉ cung cấp khi CTBH yêu cầu);
+- Giấy chứng nhận phẫu thuật/Phiếu mổ (trong trường hợp phải phẫu thuật/mổ)
+- Và các chứng từ y tế khác có liên quan theo yêu cầu của CTBH. 
+Tất cả các chứng từ y tế trên yêu cầu phải là bản gốc, có chữ ký, đóng dấu của cơ sở y tế (trừ đơn thuốc tại bệnh viện công có in mã vạch). Trường hợp không cung cấp được bản gốc có thể cung cấp bản sao của các chứng từ y tế trên có công chứng hoặc bản sao có xác nhận của CTBH (riêng hồ sơ có chứng từ thanh toán là hóa đơn điện tử và không cung cấp hóa đơn chuyển đổi hóa đơn điện tử: chỉ chấp nhận chứng từ y tế bản sao (có công chứng/xác nhận) nếu hóa đơn điện tử định danh Tổng Công ty Bảo hiểm Bảo Việt). Trong mọi trường hợp, CTBH có quyền yêu cầu NĐBH cung cấp bản gốc để kiểm tra.
+12.1.4. Trường hợp tai nạn:
+- Tai nạn sinh hoạt: NĐBH phải có Bản tường trình về tai nạn, không yêu cầu xác nhận của BMBH.
+- Tai nạn lao động: NĐBH phải có Bản tường trình về tai nạn có xác nhận của BMBH.
+- Tai nạn giao thông: nếu còn đủ điều kiện về sức khỏe và năng lực hành vi, NĐBH phải có Bản tường trình về tai nạn; hồ sơ giải quyết tai nạn của cơ quan công an (trong trường hợp có cơ quan công an tham gia hoặc trường hợp tử vong); Giấy phép lái xe, Giấy đăng ký xe trong trường hợp bị tai nạn khi đang điều khiển phương tiện giao thông (bản chính, hoặc bản sao có công chứng, hoặc bản sao có xác nhận của CTBH).  
+12.1.5. Trường hợp thương tật vĩnh viễn: Giấy chứng thương hoặc giấy chứng nhận thương tích hoặc bản giám định thương tật do Hội đồng y khoa tỉnh/thành phố cung cấp.
+12.1.6. Trường hợp trợ cấp ngày nghỉ do ốm bệnh/tai nạn: giấy chỉ định nghỉ của bác sỹ điều trị trên toa thuốc/giấy ra viện; bảng chấm công (hoặc giấy xác nhận nghỉ) có xác nhận của BMBH; Hợp đồng lao động/Quyết định tăng lương/Bảng kê lương (quy định này không áp dụng đối với trường hợp trợ cấp ngày nghỉ không tính theo lương)
+12.1.7. Trường hợp tử vong: hồ sơ bệnh án trước khi tử vong (nếu có), giấy chứng tử, giấy báo tử/giấy xác nhận nguyên nhân tử vong do cơ quan có thẩm quyền cấp, di chúc/giấy xác nhận quyền thừa kế hợp pháp trong trường hợp NĐBH không chỉ định Người thụ hưởng, hoặc Người thụ hưởng đã tử vong/mất tích. Các chứng từ trên phải là bản gốc hoặc bản sao có công chứng.
+12.1.8. Giấy tờ chứng minh quan hệ nhân thân (đối với các hồ sơ khiếu nại bồi thường của người thân) trong trường hợp CTBH yêu cầu.
+12.1.9. Các chứng từ khác có liên quan phục vụ việc giải quyết bồi thường theo yêu cầu của CTBH.
+Trường hợp yêu cầu bồi thường cho người thân, nhân viên được thay mặt người thân để yêu cầu CTBH chi trả bồi thường và nhận tiền bồi thường trừ trường hợp bồi thường cho quyền lợi tử vong phải theo quy định của Pháp luật về quyền thừa kế.
+12.2. Thời hạn khiếu nại và trả tiền bảo hiểm:
+12.2.1. CTBH có trách nhiệm giải quyết và chi trả tiền bảo hiểm bằng tiền mặt hoặc chuyển khoản theo thông tin kê khai của Người được bảo hiểm trên Giấy yêu cầu bồi thường trong vòng 15 ngày làm việc kể từ ngày nhận được hồ sơ yêu cầu bồi thường đầy đủ, hợp lệ.
+12.2.2. NĐBH có quyền khiếu nại về việc trả tiền bảo hiểm của CTBH trong vòng 06 tháng kể từ ngày nhận được thông báo của CTBH và bất cứ khiếu nại nào cũng không được vượt quá 03 năm kể từ ngày xảy ra sự kiện dẫn đến khiếu nại. 
+12.2.3. Mọi tranh chấp phát sinh từ Quy tắc bảo hiểm và Hợp đồng bảo hiểm này mà không thể giải quyết bằng thương lượng sẽ được giải quyết ở Toà án của Việt Nam và theo Luật pháp Việt Nam.
+
+
+13. Thẻ bảo lãnh và thủ tục bảo lãnh viện phí:
+13.1. Thẻ bảo lãnh
+Thẻ bảo lãnh được cấp cho mỗi NĐBH dùng để bảo lãnh viện phí trong trường hợp nằm viện, phẫu thuật do tai nạn/ốm bệnh/thai sản, điều trị ngoại trú & răng tại các bệnh viện/phòng khám trong hệ thống bảo lãnh viện phí của CTBH, cụ thể:
+-  Áp dụng bảo lãnh viện phí Nội trú (thẻ Xanh) nếu mức phí sau chiết khấu đạt 2.000.000 VNĐ/người/năm
+- Áp dụng bảo lãnh viện phí Nội trú, Ngoại trú, Răng (Thẻ Vàng) với chương trình 2 đối với đối tượng là cán bộ nhân viên công ty là thành viên Hội đồng Quản Trị, Ban Giám Đốc, Ban Kiểm Soát, Chi Hội Điện Lực . Còn lại áp dụng thẻ xanh
+
+Danh sách bệnh viện, phòng khám trong hệ thống bảo lãnh viện phí của CTBH và danh sách cơ sở y tế không được chi trả có thể thay đổi mà không cần báo trước và được cập nhật thường xuyên trên website của CTBH http://www.baoviet.com.vn/insurance
+13.2. Thủ tục bảo lãnh viện phí:
+Khi có yêu cầu bảo lãnh tại các bệnh viện/phòng khám trong hệ thống bảo lãnh của chương trình, NĐBH phải:
+- Xuất trình thẻ bảo lãnh và Giấy tờ tùy thân (Giấy khai sinh nếu NĐBH là trẻ em dưới 15 tuổi) cho bệnh viện/phòng khám.
+- Kiểm tra Giấy yêu cầu bồi thường mà bệnh viện/phòng khám cung cấp sau khi điều trị và ký tên để xác nhận việc điều trị của NĐBH, đặt cọc theo quy định của bệnh viện/phòng khám (nếu có).
+- Thanh toán các chi phí không thuộc phạm vi bảo hiểm hoặc vượt quá mức trách nhiệm bảo hiểm. 
+14. Khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm dẫn đến tăng các rủi ro được bảo hiểm, CTBH có quyền thực hiện một trong các nội dung sau đây: 
++	Tính lại phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm;
++	Giảm số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; 
++	Rút ngắn thời hạn bảo hiểm; 
++	Thu hẹp phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm. 
+Trường hợp BMBH không chấp nhận yêu cầu của CTBH, CTBH có quyền đơn phương chấm dứt thực hiện hợp đồng bảo hiểm và thông báo ngay bằng văn bản cho BMBH.
+15. Điều khoản về Bảo vệ và xử lý Dữ liệu cá nhân:
+BMBH và NĐBH đồng ý rằng CTBH có quyền thu thập, xử lý và lưu trữ Dữ liệu cá nhân để thực hiện các quyền và nghĩa vụ quy định trong Hợp đồng bảo hiểm này và những công việc có liên quan khác theo quy định của pháp luật. 
+Khi thực hiện các quyền và nghĩa vụ được quy định trong Hợp đồng bảo hiểm, BMBH phải thông tin đầy đủ và đảm bảo rằng NĐBH đã đọc và đồng ý với các Điều khoản và Điều kiện chung của CTBH về Bảo vệ và xử lý Dữ liệu cá nhân quy định tại website của CTBH: http://www.baoviet.com.vn/insurance 
+
+16. Các điều khoản mở rộng: 
+16.1. Mở rộng vitamin, khoáng chất hỗ trợ điều trị: 
+Mở rộng bồi thường vitamin, khoáng chất khi thỏa mãn các điều kiện sau:
+• Được kê đơn theo sự chỉ định của Bác sỹ điều trị;
+• Hỗ trợ cho việc điều trị bệnh/tai nạn;
+• Trong toa thuốc phải có thuốc điều trị đi kèm;
+Tổng chi phí bồi thường cho các loại vitamin, khoáng chất không lớn hơn 20% tổng chi phí của cả toa thuốc.
+16.3. Mở rộng khi điều trị tại bệnh viện công:
+- Đồng ý không yêu cầu bảng kê chi tiết viện phí với chi phí y tế từ 500.000 VNĐ/ lần khám ngoại trú trở xuống tại bệnh viện công (không bao gồm khoa tự nguyện và khoa quốc tế tại bệnh viện công). Nội dung này không áp dụng với chi phí mua thuốc.
+- Đồng ý không yêu cầu bảng kê chi tiết viện phí với chi phí y tế từ 2.000.000 VNĐ/ lần nằm viện trở xuống tại bệnh viện công (không bao gồm khoa tự nguyện và khoa quốc tế tại bệnh viện công). Nội dung này không tính tới các biên lai viện phí đã có bảng kê viện phí.
+- Không yêu cầu đóng dấu trên toa thuốc (in từ máy tính) nếu có mã bệnh viện, mã bệnh nhân in trên các chứng từ điều trị khác mà các chứng từ này đã được đóng dấu.
+16.4. Mở rộng bảo hiểm đinh/nẹp/vis
+Bảo hiểm đinh/nẹp/vis cố định vào cơ thể trong trường hợp tai nạn, giới hạn 10% STBH quyền lợi Chi phí y tế di tai nạn
+16.8. Mở rộng điều khoản được bồi thường qua app BVDirect. 
+Bảo hiểm Bảo Việt áp dụng giải quyết quyền lợi bảo hiểm trên bộ hồ sơ mềm nộp qua ứng dụng BaoViet Direct như sau:
+a. Điều kiện áp dụng:
+Khoản tiền bồi thường không phải là di sản thừa kế, và nhỏ hơn hoặc bằng 10.000.000 VNĐ (Mười triệu đồng)
+b. Điều kiện về bộ hồ sơ mềm
+(b1) Bản thể hiện Giấy yêu cầu bồi thường (“GYCBT”) và Tường trình tai nạn (“TTTN”) được khởi tạo từ ứng dụng BaoViet Direct có giá trị tương đương bản cứng được người khai báo ký trực tiếp - với điều kiện khi khai báo trên ứng dụng, người khai báo đã được xác thực điện tử bằng mã OTP gửi tới số điện thoại đăng ký sử dụng;
+
+* Lưu ý: Đối với Hợp đồng bảo hiểm yêu cầu dấu và chữ ký xác nhận của Nhân
+sự (hoặc Đại diện Bên mua bảo hiểm) trên GYCBT/TTTN: Chấp nhận bản
+sao/bản chụp từ bản chính/bản scan/bản photo… đã có xác nhận của Nhân sự (hoặc Đại diện Bên mua bảo hiểm).
+
+Các chứng từ này được lưu tại hệ thống công nghệ thông tin của Bảo hiểm Bảo
+Việt (BHBV), khách hàng không phải in/ký/gửi bản cứng tới BHBV sau đó.
+(b2) Toàn bộ các chứng từ thanh toán của bộ hồ sơ là:
+- Bản thể hiện Hóa đơn điện tử có thông tin về đường dẫn tra cứu; hoặc
+- Hóa đơn chuyển đổi hóa đơn điện tử có thông tin về đường dẫn tra cứu;
+(b3) Các chứng từ y tế:
+Chấp nhận bản sao (bản chụp từ bản chính/bản chụp ảnh/bản scan/bản photo...) các chứng từ y tế và không yêu cầu bản sao có chứng thực/bản sao có xác nhận của BHBV;
+Riêng đối với các cơ sở y tế công lập: Không yêu cầu dấu của khoa/phòng khám/bệnh viện đối với các cơ sở y tế quản lý bệnh nhân bằng mã vạch;
+(b4) Các chứng từ khác:
+Chấp nhận bản sao có chứng thực hoặc bản sao có xác nhận của BHBV tuỳ từng trường hợp cụ thể;
+*Bảo hiểm Bảo Việt bảo lưu quyền đề nghị khách hàng cung cấp bản cứng/bản chính của toàn bộ các chứng từ trên và bộ hồ sơ gốc để kiểm tra, xác minh, đối chiếu trong một số trường hợp cần thiết.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHỤ LỤC III 
+Bảng tính phí bảo hiểm 
+									Đơn vị/ Unit: VNĐ
+Số lượng người tham gia: 241 người, trong đó
++ 222 NĐBH tham gia Chương trình 1 
++ 12 NĐBH tham gia Chương trình 2
++ 02 NĐBH tham gia Chương trình 2 áp dụng thu phí bổ sung tăng 30%
++ 05 NĐBH tham gia Chương trình 1 áp dụng thu phí bổ sung tăng 30%
+
+QUYỀN LỢI BẢO HIỂM	
+PHÍ BẢO HIỂM	
+PHÍ BẢO HIỂM
+Chương trình	1	2
+Điều kiện A - Bảo hiểm Sinh mạng	
+120.000	200.000
+Điều kiện B - Chết, thương tật vĩnh viễn do tai nạn	
+54.000	90.000
+Điều kiện C - Chi phí y tế do tai nạn 	
+480.000	650.000
+Điều kiện D - Điều trị Nội trú do ốm bệnh, thai sản 	
+1.320.000	2.000.000
+Quyền lợi bảo hiểm bổ sung - Điều trị ngoại trú do ốm bệnh	
+1.200.000	2.000.000
+Phí bảo hiểm/người/năm	
+3.174.000	4.940.000
+Giảm phí nhóm	20%	20%
+Phí bảo hiểm sau khi giảm
+(người/năm) (1)
+(Phí bảo hiểm như năm 2023)	2.539.200	3.952.000
+Phí bảo hiểm sau khi thu phí bổ sung tăng 30% (áp dụng với NĐBH từ 15 ngày tuổi đến dưới 12 tháng tuổi hoặc NĐBH từ 65 tuổi đến 70 tuổi) (2)	2.539.200 * 130% = 3.300.960	3.952.000 * 130% = 5.137.600
+Số người tham gia có độ tuổi 12 tháng tuổi đến dưới 65 tuổi  (3)	222	12
+Số người tham gia có độ tuổi từ 65 tuổi đến 70 tuổi  (4)	04	02
+Số người thân quá tuổi quy định (được phép mở rộng) (5)	01	00
+Tổng phí nhóm (6) = (1)* (3) + (2) * (4) + (2)*(5)	222 * 2.539.200 + 04 * 3.300.960 + 01 * 3.300.960 =  580.207.200	12 * 3.952.000 + 02 * 5.137.600 = 57.699.200
+Tổng phí của hợp đồng	
+580.207.200 + 57.699.200= 637.906.400 
+
+(Sáu trăm ba mươi bảy triệu chín trăm lẻ sáu ngàn bốn trăm đồng)
+Thẻ bảo lãnh	Thẻ xanh 
+(Bảo lãnh Nội trú)	Thẻ vàng
+(Bảo lãnh Nội trú + Ngoại trú + Răng)
+Theo quy định tại điều 13 – Thẻ bảo lãnh 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
